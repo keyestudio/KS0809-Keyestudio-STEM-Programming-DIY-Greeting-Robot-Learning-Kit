@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: KS0809 Keyestudio STEM创意编程科技小制作套装 迎宾机器人
+   :caption: KS0809 Keyestudio STEM Programming DIY Greeting Robot Learning Kit
 
    README.md
    docs/index.md
