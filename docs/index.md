@@ -62,10 +62,10 @@ The Keyestudio trademark and logo are the copyright of **KEYES DIY ROBOT co.,LTD
 |  1   |                      ![img](img/q1.png)                      |     Expansion board     |   1    |
 |  2   |                      ![img](img/q2.png)                      |     Battery holder     |   1    |
 |  3   |                      ![img](img/q3.png)                      |     Basswood board     |   1    |
-|  4   |                      ![img](img/q6.png)![img](img/q6.png)![img](img/q6.png)![img](img/q6.png)                      |  M4*8MM screw  |   4    |
-|  5   | ![img](img/q6.png)![img](img/q6.png) | M2.5*8MM screw |   2    |
-|  6   | ![img](img/q6.png)![img](img/q6.png)![img](img/q6.png)![img](img/q6.png) |  M2*8MM screw  |   4    |
-|  7   | ![img](img/q6.png)![img](img/q6.png)![img](img/q6.png)![img](img/q6.png) |   M1.2*4MM screw   |   4    |
+|  4   |                      ![img](img/q61.png)![img](img/q61.png)![img](img/q61.png)![img](img/q61.png)                      |  M4*8MM screw  |   4    |
+|  5   | ![img](img/q62.png)![img](img/q62.png) | M2.5*8MM screw |   2    |
+|  6   | ![img](img/q63.png)![img](img/q63.png)![img](img/q63.png)![img](img/q63.png) |  M2*8MM screw  |   4    |
+|  7   | ![img](img/q64.png)![img](img/q64.png)![img](img/q64.png)![img](img/q64.png) |   M1.2*4MM screw   |   4    |
 |  8   | ![img](img/q8.png)![img](img/q8.png)![img](img/q8.png)![img](img/q8.png) |    M4 nut    |   4    |
 |  9   | ![img](img/q8.png)![img](img/q8.png) | M2.5 nut |   2    |
 |  10  |   ![img](img/q8.png)![img](img/q8.png)![img](img/q8.png)![img](img/q8.png)   |    M2 nut    |   4    |

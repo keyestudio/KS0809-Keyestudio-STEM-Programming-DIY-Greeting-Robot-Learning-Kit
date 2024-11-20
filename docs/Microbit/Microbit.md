@@ -163,7 +163,7 @@ Add an Extension.
 
 ![](img/cou2.png)
 
-Search sonar and click to load it.
+Search “sonar” and click to load it.
 
 ![](img/cou3.png)
 

@@ -228,7 +228,7 @@ After the program is uploaded to the Micro: bit, you can power it via USB cable 
 
 This chapter has described how to use the Micro:bit main board.
 
-Except for the Makecode graphical programming, if you want to write Micro:bit programs in other languages, visit <https://microbit.org/code/> to learn more, or visit <https://microbit.org/projects/> to find something you want to have a go.
+Except for the Makecode graphical programming, if you want to write Micro:bit programs in other languages.
 
 
 
@@ -394,7 +394,7 @@ Click **Blocks** to return to graphical programming.
 
 ### 3.5 Resources and Test Code
 
-[Click to download the tutorials and code files](https://fs.keyestudio.com/KS0801).
+[Click to download the tutorials and code files](MakeCode/code.zip).
 
 **3.5.1 Import code**
 
@@ -505,9 +505,9 @@ Please check code in Project 1 file.
 
 ![img](img/k3.png)
 
-Visit <https://makecode.micro:bit.org/reference> to find more information about micro: bit blocks. 
+Visit <https://makecode.microbit.org/reference> to find more information about micro: bit blocks. 
 
-Visit <https://makecode.micro:bit.org/> for programming helps.
+Visit <https://makecode.microbit.org/> for programming helps.
 
 **Find code blocks:**
 
@@ -530,8 +530,6 @@ Pull down to click “Python” to see Python code:
 **5. Test Result**
 
 After uploading test code to micro:bit main board and keeping the connection with the computer to power the main board, the LED dot matrix shows pattern “❤” and “![img](img/k8.png)”,  alternately.
-
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：)
 
 **If the downloading is not smooth, please remove the USB cable from the main board and then reconnect them and reopen Makecode to try again.**
 
@@ -583,8 +581,6 @@ In order to locate these LEDs quickly, as the figure shown below, we can regarde
 
 After uploading test code to micro:bit main board and powering the main board via the USB cable, the LED in (1,0) lights up for 1s and the one in (3,4) shines for 1s and this sequence will repeat.
 
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
-
 -------------------
 
 ### Project 3: LED Dot Matrix
@@ -624,8 +620,6 @@ Connect the board to your computer via micro USB cable.
 **5. Test Result**
 
 After uploading test code to micro:bit main board and powering the main board via the USB cable, we find that the 5*5 dot matrix start to show numbers 1, 2, 3, 4 and 5, and then it alternatively shows ![img](img/k16.png), “Hello!”, ![img](img/k17.png), ![img](img/k18.png), ![img](img/k19.png), ![img](img/k20.png) and ![img](img/k21.png)!
-
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
 
 --------------------
 
@@ -669,7 +663,7 @@ Connect the board to your computer via micro USB cable.
 
 After uploading test code and powering on, the 5*5 LED dot matrix shows A if button A is pressed and then released, B if button B pressed and released, and AB if button A and B pressed together and then released.
 
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
+
 
 ****6. Test Code 2****
 
@@ -705,7 +699,7 @@ After uploading test code and powering on, the 5*5 LED dot matrix shows A if but
 
 After uploading test code and powering on, when the button A is pressed, the LEDs in red increase; when the button B is pressed, the LEDs in red reduce.
 
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
+
 
 -------------------
 
@@ -755,7 +749,7 @@ Connect the board to your computer via micro USB cable.
 
 After uploading test code 1 to micro:bit main board, powering the main board via the USB cable, and click “**Show console Device**”, the temperature value shows in the serial monitor as shown below.
 
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
+
 
 ![img](img/k36.png)
 
@@ -805,7 +799,7 @@ The CoolTerm serial monitor shows the change of temperature in the current envir
 
 After uploading the code 2 to the board, when the ambient temperature is less than 35℃, the 5*5 LED dot matrix shows ![img](img/k46.png). You may cover the sensor on the board to make the temperature equal to or become greater than 35℃, and then ![img](img/k47.png) will appear.
 
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
+
 
 -----------
 
@@ -867,7 +861,7 @@ After uploading code and powering on, press the button A and the board need to b
 
 After completing calibration, a smile ![img](img/k54.png) will appear. Press button A, and the detected magnetometer value will show. And the direction north, east, south and west correspond to 0°, 90°, 180° and 270° respectively.
 
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
+
 
 **6. Test Code 2**
 
@@ -915,7 +909,7 @@ For the above picture, the arrow pointing to the upper right when the value rang
 
 After uploading code and calibrating, tilt micro:bit board and the LED dot matrix displays the direction signs. 
 
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
+
 
 ----------------
 
@@ -970,7 +964,7 @@ Connect the board to your computer via micro USB cable.
 
 After uploading code and powering on, if we shake the Micro:Bit board(any direction), the LED dot matrix displays the digit “1”.
 
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
+
 
 When the logo is kept above, number 2 displays.
 
@@ -1032,7 +1026,7 @@ If you’d like to try this function, you can also set the acceleration to 3g, 6
 
 Upload test code to micro:bit main board, power the main board via the USB cable, and click “Show console Device”.
 
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
+
 
 ![img](img/k79.png)
 
@@ -1098,7 +1092,7 @@ Connect the board to your computer via micro USB cable.
 
 Upload the test code to micro:bit main board, power the board via the USB cable and click “Show console Device”. 
 
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
+
 
 ![img](img/k89.png)
 
@@ -1162,7 +1156,7 @@ Connect the board to your computer via micro USB cable.
 
 After uploading code and powering on, the speaker utters sound and the LED dot matrix shows the logo of music.
 
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
+
 
 **6. Test Code 2**
 
@@ -1258,7 +1252,7 @@ Connect the board to your computer via micro USB cable.
 
 After uploading the code and powering on, the LED dot matrix exhibits the heart pattern “❤” when the logo is pressed or touched, and it displays digit when the logo is released. The longer it is pressed, the bigger the number is when it is released.
 
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
+
 
 ---------------------
 
@@ -1302,7 +1296,7 @@ Connect the board to your computer via micro USB cable.
 
 After uploading test code to micro:bit main board and powering the board via the USB cable, the LED dot matrix displays “❤” when you clap, and “![](img/k46.png)” appears when it is quiet around.
 
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
+
 
 **6. Test Code 2**
 
@@ -1338,7 +1332,7 @@ After uploading test code to micro:bit main board and powering the board via the
 
 Upload test code and power on and click “Show console Device” as shown below: 
 
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
+
 
 ![img](img/k127.png)
 
@@ -1402,7 +1396,7 @@ Connect the board to your computer via micro USB cable.
 
 After uploading test code to micro:bit main board and powering the board via the USB cable, the speaker plays *Birthday Song* when the logo is touched.
 
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
+
 
 --------------------
 
@@ -1473,7 +1467,7 @@ Connect the board to your computer via micro USB cable.
 
 The game begins when the code is uploaded to the main board. The bullets fall off and we need to control the role G by Button A and B to shun them. If the role fail to avert the attacks, game is over.
 
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
+
 
 **7. Test Code 2**
 
@@ -1545,7 +1539,7 @@ The game begins when the code is uploaded to the main board. The bullets fall of
 
 Press buttons A and B at the same time, and the game starts again.
 
-[How to download?  How to quick download?](#3.1.3Step 3: 下载代码：) 
+
 
 ---------------------
 
