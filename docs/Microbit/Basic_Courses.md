@@ -420,7 +420,7 @@ Click “Import File...”.
 
 Choose “Heart beat.hex”.
 
-![img](img/m49.png)
+![img](img/m491.png)
 
 ![img](img/m50.png)
 
