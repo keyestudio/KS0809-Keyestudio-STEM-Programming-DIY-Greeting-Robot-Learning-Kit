@@ -69,7 +69,7 @@ The Keyestudio trademark and logo are the copyright of **KEYES DIY ROBOT co.,LTD
 |  8   | ![img](img/q8.png)![img](img/q8.png)![img](img/q8.png)![img](img/q8.png) |    M4 nut    |   4    |
 |  9   | ![img](img/q8.png)![img](img/q8.png) | M2.5 nut |   2    |
 |  10  |   ![img](img/q8.png)![img](img/q8.png)![img](img/q8.png)![img](img/q8.png)   |    M2 nut    |   4    |
-| 11 | ![img](img/q11.png) | Servo | 1 |
+| 11 | ![img](img/q11.png) | Servo | 2 |
 | 12 | ![img](img/q10.png) | Ultrasonic sensor | 1 |
 | 13 | ![img](img/q9.png) | 4PIN DuPont wire | 1 |
 | 14 | ![img](img/q12.png) | Screwdriver | 1 |
