@@ -1,8 +1,6 @@
-## Installation and using method of Programming [Software Tutorial](Software_Tutorial.md)
+# 2.1ESP32 Easy Coding Board Basic Projects
 
-
-
-## ESP32 Easy Coding Board Basic Projects
+Installation and using method of Programming [Software Tutorial](Software_Tutorial.md)
 
 ### 1 Heartbeat
 

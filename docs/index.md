@@ -45,7 +45,7 @@ The Keyestudio trademark and logo are the copyright of **KEYES DIY ROBOT co.,LTD
 
 
 
-# STEM Programming DIY Greeting Robot Learning Kit
+# 1.STEM Programming DIY Greeting Robot Learning Kit
 
 ![img](img/KS0809.jpg)
 

@@ -1,4 +1,4 @@
-# Keyestudio ESP32 Easy Coding Board
+# Keyestudio ESP32 Easy Coding Board Software Tutorial
 
 ![img](img/2A.png)
 

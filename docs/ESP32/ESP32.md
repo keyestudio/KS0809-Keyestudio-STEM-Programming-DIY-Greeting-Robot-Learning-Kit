@@ -1,4 +1,4 @@
-# ESP32 Easy Coding Board Greeting Robot Projects
+# 2.2 ESP32 Easy Coding Board Greeting Robot Projects
 
 ## 1. Projects
 
